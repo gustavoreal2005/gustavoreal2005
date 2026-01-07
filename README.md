@@ -60,7 +60,7 @@
 <td width="33%">
 <h3 align="center">📱 Curso de Kotlin</h3>
 <div align="center">
-  <a href="https://github.com/Uriolivei/Curso_Kotlin" target="_blank">
+  <a href="https://github.com/gustavoreal2005/DISE-O-Y-DESARROLLO-DE-APLICACIONES-M-VILES" target="_blank">
     <img src="https://i.pinimg.com/1200x/87/64/cc/8764ccb2d11e7112cf989a6adae385a0.jpg" width="250" alt="Kotlin">
   </a>
   <p>
