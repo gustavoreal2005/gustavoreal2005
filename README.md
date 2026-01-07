@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Soy <a href="https://github.com/Uriolivei" target="_blank">RELIN GUSTAVO SORIA DÁVILA</a>
+  Soy <a href="https://github.com/gustavoreal2005" target="_blank">RELIN GUSTAVO SORIA DÁVILA</a>
 </h1>
 
 <p align="center">
@@ -37,11 +37,8 @@
 ## 🤝 Conectemos
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:soriadavilgustavo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-blue?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/tuperfil">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
