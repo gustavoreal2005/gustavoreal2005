@@ -73,7 +73,7 @@
 <td width="33%">
 <h3 align="center">🔌 Curso de Arduino</h3>
 <div align="center">
-  <a href="https://github.com/Uriolivei/Curso_Arduino" target="_blank">
+  <a href="https://github.com/gustavoreal2005/DISE-O-Y-DESARROLLO-DE-SOLUCIONES-IOT" target="_blank">
     <img src="https://i.pinimg.com/736x/c7/85/f2/c785f20c5a4d0519faef94d26d4605fc.jpg" width="250" alt="Arduino">
   </a>
   <p>
