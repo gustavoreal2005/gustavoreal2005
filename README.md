@@ -107,11 +107,6 @@
 <p align="center">
   <strong>“La disciplina supera al talento cuando el talento no se disciplina.”</strong>
 </p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/85/df/e6/85dfe641aeafd5a414af1cb3e5d132af.gif" width="100%" alt="gif">
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
