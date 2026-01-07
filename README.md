@@ -86,7 +86,7 @@
 <td width="33%">
 <h3 align="center">🔧 Git, GitHub y Git Bash</h3>
 <div align="center">
-  <a href="https://github.com/Uriolivei/Curso_Git" target="_blank">
+  <a href="https://github.com/gustavoreal2005/FULLSTACK-DEVELOPER-SOFTWARE" target="_blank">
     <img src="https://i.pinimg.com/1200x/a2/e2/9f/a2e29fc13256aecd5f4b700fc53c3e7b.jpg" width="250" alt="Git">
   </a>
   <p>
