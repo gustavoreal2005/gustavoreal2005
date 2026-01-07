@@ -34,16 +34,6 @@
 
 ---
 
-## 🤝 Conectemos
-
-<p align="center">
-  <a href="mailto:soriadavilgustavo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-blue?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
 ## 🛠️ Tecnologías
 
 <div align="center">
